@@ -4,7 +4,6 @@
 
 _A Collection of Docker Containers for Security and Penetration Testing can be found [here](https://github.com/ellerbrock/docker-security-container)._
 
-
 [![Docker Automated Build](https://img.shields.io/docker/automated/frapsoft/debian-unpriv.svg)](https://hub.docker.com/r/frapsoft/debian-unpriv/) [![Docker Pulls](https://img.shields.io/docker/pulls/frapsoft/debian-unpriv.svg)](https://hub.docker.com/r/frapsoft/debian-unpriv/) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg)](https://github.com/ellerbrock/open-source-badges/) [![Gitter Chat](https://badges.gitter.im/frapsoft/frapsoft.svg)](https://gitter.im/frapsoft/frapsoft/)
 
 - Docker Hub: [frapsoft/debian-unpriv](https://hub.docker.com/r/frapsoft/debian-unpriv/)
